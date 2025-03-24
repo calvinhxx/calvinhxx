@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [calvinhxx.github.io](calvinhxx.github.io)
 
-- 💬 Ask me about **C_Client_DEV、Qt、Windows、Linux、Mac**
+- 💬 Ask me about **C_Client_DEV、Web_DEV、Qt、Windows、Linux、Mac**
 
 - 📫 How to reach me **calvinbigfairy@163.com**
 
