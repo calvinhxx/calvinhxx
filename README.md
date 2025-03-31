@@ -3,7 +3,7 @@
 
 ---
 
-- 📝 I regularly write articles on [calvinhxx.github.io](calvinhxx.github.io)
+- 📝 I regularly write articles on [calvinhxx.github.io](https://calvinhxx.github.io/)
 
 - 💬 Ask me about **C_Client_DEV、Web_DEV、Qt、Windows、Linux、Mac**
 
