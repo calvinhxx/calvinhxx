@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm CalvinHxx</h1>
-<h3 align="center">A PC💻️ frontend developer from china</h3>
+<h3 align="center">A 💻️ Full Stack developer from china</h3>
 
 ---
 
 - 📝 I regularly write articles on [calvinhxx.github.io](https://calvinhxx.github.io/)
 
-- 💬 Ask me about **C_Client_DEV、Web_DEV、Qt、Windows、Linux、Mac**
+- 💬 Ask me about **Client_DEV、Web_DEV、BackEnd_DEV、Qt、Windows、Linux、Mac**
 
 - 📫 How to reach me **calvinbigfairy@163.com**
 
